@@ -1,3 +1,15 @@
+#******************************************************* 
+# FILE: Parcel Analysis for Vacant Land
+# AUTHOR: Thailynn Munroe
+# EMAIL: thailynn.munroe@gmail.com
+# MODIFIED BY: n/a
+# ORGANIZATION: Little Sister Land Company 
+# CREATION DATE: 05/08/2023
+# LAST MOD DATE: (Optional, add when modified)
+# PURPOSE: To add attribute information to vacant land parcels for better decision making
+# DEPENDENCIES: n/a
+#********************************************************
+
 import os
 import arcpy
 from arcpy.sa import *
